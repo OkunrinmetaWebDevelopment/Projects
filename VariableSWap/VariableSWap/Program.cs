@@ -7,7 +7,7 @@ namespace VariableSWap
         public static void Main(string[] args)
         {
             //We can use the + and - operatores to swap values with out a third number
-            //at this starting point a is 10 and b is 20
+            //at this starting point a is 6 and b is 8
             int a = 6;
             int b = 8;
             Console.Write("Before swap a = {0} and b = {1}", a, b);
