@@ -1,0 +1,6 @@
+/Users/PRINCESS/Projects/VendingMatching/VendingMatching/bin/Debug/VendingMatching.exe
+/Users/PRINCESS/Projects/VendingMatching/VendingMatching/bin/Debug/VendingMatching.pdb
+/Users/PRINCESS/Projects/VendingMatching/VendingMatching/obj/x86/Debug/VendingMatching.csprojResolveAssemblyReference.cache
+/Users/PRINCESS/Projects/VendingMatching/VendingMatching/obj/x86/Debug/VendingMatching.csproj.CoreCompileInputs.cache
+/Users/PRINCESS/Projects/VendingMatching/VendingMatching/obj/x86/Debug/VendingMatching.exe
+/Users/PRINCESS/Projects/VendingMatching/VendingMatching/obj/x86/Debug/VendingMatching.pdb

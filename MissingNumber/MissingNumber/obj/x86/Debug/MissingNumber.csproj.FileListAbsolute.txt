@@ -1,0 +1,6 @@
+/Users/PRINCESS/Projects/MissingNumber/MissingNumber/bin/Debug/MissingNumber.exe
+/Users/PRINCESS/Projects/MissingNumber/MissingNumber/bin/Debug/MissingNumber.pdb
+/Users/PRINCESS/Projects/MissingNumber/MissingNumber/obj/x86/Debug/MissingNumber.csprojResolveAssemblyReference.cache
+/Users/PRINCESS/Projects/MissingNumber/MissingNumber/obj/x86/Debug/MissingNumber.csproj.CoreCompileInputs.cache
+/Users/PRINCESS/Projects/MissingNumber/MissingNumber/obj/x86/Debug/MissingNumber.exe
+/Users/PRINCESS/Projects/MissingNumber/MissingNumber/obj/x86/Debug/MissingNumber.pdb

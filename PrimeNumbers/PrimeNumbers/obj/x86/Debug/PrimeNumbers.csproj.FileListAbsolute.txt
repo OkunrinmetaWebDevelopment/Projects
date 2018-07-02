@@ -1,0 +1,6 @@
+/Users/PRINCESS/Projects/PrimeNumbers/PrimeNumbers/bin/Debug/PrimeNumbers.exe
+/Users/PRINCESS/Projects/PrimeNumbers/PrimeNumbers/bin/Debug/PrimeNumbers.pdb
+/Users/PRINCESS/Projects/PrimeNumbers/PrimeNumbers/obj/x86/Debug/PrimeNumbers.csprojResolveAssemblyReference.cache
+/Users/PRINCESS/Projects/PrimeNumbers/PrimeNumbers/obj/x86/Debug/PrimeNumbers.csproj.CoreCompileInputs.cache
+/Users/PRINCESS/Projects/PrimeNumbers/PrimeNumbers/obj/x86/Debug/PrimeNumbers.exe
+/Users/PRINCESS/Projects/PrimeNumbers/PrimeNumbers/obj/x86/Debug/PrimeNumbers.pdb

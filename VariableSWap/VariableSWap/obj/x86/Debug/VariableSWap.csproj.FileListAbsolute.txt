@@ -1,0 +1,6 @@
+/Users/PRINCESS/Projects/VariableSWap/VariableSWap/bin/Debug/VariableSWap.exe
+/Users/PRINCESS/Projects/VariableSWap/VariableSWap/bin/Debug/VariableSWap.pdb
+/Users/PRINCESS/Projects/VariableSWap/VariableSWap/obj/x86/Debug/VariableSWap.csprojResolveAssemblyReference.cache
+/Users/PRINCESS/Projects/VariableSWap/VariableSWap/obj/x86/Debug/VariableSWap.csproj.CoreCompileInputs.cache
+/Users/PRINCESS/Projects/VariableSWap/VariableSWap/obj/x86/Debug/VariableSWap.exe
+/Users/PRINCESS/Projects/VariableSWap/VariableSWap/obj/x86/Debug/VariableSWap.pdb

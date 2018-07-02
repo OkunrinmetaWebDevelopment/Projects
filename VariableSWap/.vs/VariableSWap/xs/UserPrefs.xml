@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A5CCD2B3-10B8-49F6-B72F-BB64035C6369}|Default">
+  <MonoDevelop.Ide.ItemProperties.VariableSWap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VariableSWap/Program.cs">
+    <Files>
+      <File FileName="VariableSWap/Program.cs" Line="14" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/PRINCESS/Projects/NumberToText/NumberToText/obj/x86/Debug/NumberToText.csprojResolveAssemblyReference.cache
+/Users/PRINCESS/Projects/NumberToText/NumberToText/obj/x86/Debug/NumberToText.csproj.CoreCompileInputs.cache
+/Users/PRINCESS/Projects/NumberToText/NumberToText/bin/Debug/NumberToText.exe
+/Users/PRINCESS/Projects/NumberToText/NumberToText/bin/Debug/NumberToText.pdb
+/Users/PRINCESS/Projects/NumberToText/NumberToText/obj/x86/Debug/NumberToText.exe
+/Users/PRINCESS/Projects/NumberToText/NumberToText/obj/x86/Debug/NumberToText.pdb
