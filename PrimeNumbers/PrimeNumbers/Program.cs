@@ -14,7 +14,7 @@ namespace PrimeNumbers
             for (long i = 3; i < long.MaxValue; i += 2)
             {
                 //a filter to check if the list contains only prime number
-                if (!primeNumbers.Any(p => (i % p) == 0))
+                if (!primeNumbers.Any(prim => (i % prim) == 0))
                 {
                     //After the filter the prime numbers are aded to the lis
                     primeNumbers.Add(i);
